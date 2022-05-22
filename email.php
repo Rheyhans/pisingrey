@@ -1,4 +1,4 @@
 <!-- DETOL SHOP -->
 <?php
-$emailku = 'emailmubrouhuinfo@gmail.com';
+$emailku = 'reyhanfoya2@gmail.com' ;
 ?>
